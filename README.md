@@ -1,5 +1,3 @@
-I'll analyze the MTN Customer Churn Dashboard data and create a comprehensive executive report for you. Let me first extract and organize the data from the dashboard.
-
 ## 📊 MTN CUSTOMER CHURN DASHBOARD ANALYSIS
 ### Executive Report for Directors
 
